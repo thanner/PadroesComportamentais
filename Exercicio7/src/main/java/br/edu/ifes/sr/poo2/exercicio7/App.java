@@ -7,9 +7,9 @@ package br.edu.ifes.sr.poo2.exercicio7;
 
 /**
  *
- * @author 20121BSI0325
+ * @author Thanner
  */
-public class Principal {
+public class App {
 
     public static void main(String[] args) {
         GerenciadorDistancia g = new GerenciadorDistancia();

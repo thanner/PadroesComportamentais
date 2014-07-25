@@ -9,9 +9,9 @@ import br.edu.ifes.poo2.ciu.cci.Controlador;
 
 /**
  *
- * @author p
+ * @author Thanner
  */
-public class Main {
+public class App {
 
     public static void main(String[] args) {
         Controlador controlador = new Controlador();

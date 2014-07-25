@@ -7,7 +7,7 @@ package br.edu.ifes.sr.exercicio1;
 
 /**
  *
- * @author T
+ * @author Thanner
  */
 public class App {
 

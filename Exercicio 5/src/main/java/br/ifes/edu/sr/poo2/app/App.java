@@ -7,7 +7,7 @@ package br.ifes.edu.sr.poo2.app;
 
 /**
  *
- * @author T
+ * @author Thanner
  */
 public class App {
 
